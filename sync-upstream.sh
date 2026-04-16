@@ -1,6 +1,6 @@
 #!/bin/zsh
 set -e
-cd ~/Documents/novel/source/christmount-novel
+cd ~/Documents/novel/christmount-novel
 
 echo "[sync] current branch: $(git branch --show-current)"
 git pull --ff-only
