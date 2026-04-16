@@ -17,14 +17,14 @@
 
 ## 上游内容来源
 
-原始小说与设定内容来自上游仓库 `christmount-novel`，本仓库不直接纳入其 Git 历史，避免嵌套仓库与同步混乱。
+原始小说与设定内容来自本地上游仓库 `christmount-novel`，本仓库不直接纳入其 Git 历史，避免嵌套仓库与同步混乱。
 
-本地上游路径说明见：
+本地上游路径：
 
-- `source/README.md`
+- `~/Documents/novel/christmount-novel/`
 
 ## 同步上游
 
 ```bash
-~/Documents/christmount-comic-drama/sync-upstream.sh
+~/Documents/comic-drama/christmount-comic-drama/sync-upstream.sh
 ```

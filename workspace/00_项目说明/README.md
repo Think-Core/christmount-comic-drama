@@ -2,7 +2,7 @@
 
 ## 目录说明
 
-- `../source/christmount-novel/`：上游内容仓库，只负责同步原始内容
+- `~/Documents/novel/christmount-novel/`：上游内容仓库，只负责同步原始内容
 - `01_素材理解/`：人物、世界观、章节、时间线、地点等理解整理
 - `02_角色设计/`：角色形象卡、视觉关键词、服装/气质/关系整理
 - `03_剧情拆解/`：章节改编、分集规划、分场拆解、节奏设计
@@ -16,17 +16,17 @@
 
 上游仓库路径：
 
-`~/Documents/novel/source/christmount-novel`
+`~/Documents/novel/christmount-novel/`
 
 一键同步命令：
 
 ```bash
-~/Documents/novel/sync.sh
+~/Documents/comic-drama/christmount-comic-drama/sync-upstream.sh
 ```
 
 ## 工作原则
 
-1. 不直接在 `source/christmount-novel` 里写漫剧产出
+1. 不直接在上游 `christmount-novel` 仓库里写漫剧产出
 2. 原仓库作为“内容源”，你的漫剧相关内容都写在 `workspace/`
 3. 最好建立“章节 -> 漫剧脚本 -> 分镜 -> 提示词”的映射关系，方便后续仓库更新时增量调整
 

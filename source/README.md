@@ -4,10 +4,10 @@
 
 当前上游仓库路径：
 
-`~/Documents/novel/source/christmount-novel`
+`~/Documents/novel/christmount-novel/`
 
 如需同步上游，请运行：
 
 ```bash
-~/Documents/christmount-comic-drama/sync-upstream.sh
+~/Documents/comic-drama/christmount-comic-drama/sync-upstream.sh
 ```
