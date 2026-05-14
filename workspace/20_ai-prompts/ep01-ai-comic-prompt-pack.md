@@ -1,8 +1,8 @@
 # 第1集 AI 漫剧提示词整理：死人堆里的人
 
-来源拆镜稿：`/Users/beiying/Documents/novel/基督山伯爵/adaptation/short-drama/scripts/ep01-ai-comic-v1.md`
+来源拆镜稿：`workspace/10_short-drama/scripts/ep01-ai-comic-v1.md`
 
-整理原则：只生成提示词，不改剧情；整体保持克制、阴冷、写实、古代架空质感。所有画面避免玄幻发光、现代监狱、夸张爽剧表情、武侠反派化。
+整理原则：只整理提示词，不改剧情。整体保持克制、阴冷、写实、古代架空质感，避免玄幻发光、现代监狱、夸张爽剧表情和武侠反派化。
 
 ## 全局风格约束
 

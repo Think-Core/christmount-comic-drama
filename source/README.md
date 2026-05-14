@@ -1,12 +1,10 @@
 # Upstream Source
 
-上游小说内容仓库单独保留在本地，不直接纳入本仓库版本管理。
-
-当前上游仓库路径：
+小说正文和原始设定放在另一个本地仓库里：
 
 `~/Documents/novel/christmount-novel/`
 
-如需同步上游，请运行：
+这个改编仓库不会把上游仓库纳入自己的 Git 历史。需要更新上游内容时，运行：
 
 ```bash
 ~/Documents/comic-drama/christmount-comic-drama/sync-upstream.sh
